@@ -1,0 +1,9 @@
+{
+	"name": "conekta-dlang",
+	"authors": [
+		"Clinton Sakun"
+	],
+	"description": "Dlang module for Conekta payments",
+	"copyright": "Copyright © 2018, Clinton Sakun",
+	"license": "proprietary"
+}
